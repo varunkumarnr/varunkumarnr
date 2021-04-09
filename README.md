@@ -2,7 +2,7 @@
 
 ## I'm Student , Developer ,Learner!
 - 🔭 I'm currently doing Bachelor's in Computer Science
-- 🌱 I'm currently learning What ever I can 🤣
+- 🌱 I'm currently learning What ever I can 
 - 👯 I'm looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute to Open Source projects and Learn as many thing as I can
 - ⚡ Fun Fact: I like playing games.
